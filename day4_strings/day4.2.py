@@ -19,3 +19,10 @@ name=input("Enter a string :")
 result1=name.find("  ")# this will give us the index of the substring (double space)
 
 print(result1)
+
+
+""" strings are imutable 
+What does “immutable” mean?
+
+Immutable = cannot be changed after creation.
+"""

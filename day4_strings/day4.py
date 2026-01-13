@@ -1,3 +1,4 @@
+"""strings """
 
 str="amol"
 str1='amol'
